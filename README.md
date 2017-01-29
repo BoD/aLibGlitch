@@ -1,7 +1,7 @@
 aLibGlitch
 ===
 
-A "glitch effect" library for Android
+A "glitch effect" library for Android.
 
 ![Glitch effect](/preview.gif?raw=true "Glitch effect")
 
