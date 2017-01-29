@@ -8,6 +8,8 @@ A "glitch effect" library for Android
 
 This little library will produce a "glitch effect" on your app's UI.
 
+[![Release](https://jitpack.io/v/BoD/aLibGlitch.svg)](https://jitpack.io/#BoD/aLibGlitch/)
+
 Usage
 ---
 
@@ -23,7 +25,7 @@ repositories {
 
 dependencies {
     /* ... */
-    compile 'com.github.BoD:aLibGlitch:-SNAPSHOT'
+    compile 'com.github.BoD:aLibGlitch:1.0.0'
 }
 ```
 
